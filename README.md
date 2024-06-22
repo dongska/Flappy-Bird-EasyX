@@ -1,7 +1,9 @@
 # Flappy-Bird-EasyX
 Flappy Bird Game in C++ ; Using object-oriented programming and the EasyX graphics library.
 
- The game involves controlling a bird by clicking the screen to avoid obstacles (columns). The project uses object-oriented programming to structure different functionalities of the game.
+If you find this project helpful, please give us a ⭐️ Star! It is very important to us and can help more people discover and use this project.
+
+The game involves controlling a bird by clicking the screen to avoid obstacles (columns). The project uses object-oriented programming to structure different functionalities of the game.
 
 <img src="picture/start.png" width="30%"><img src="picture/gaming.png" width="30%"><img src="picture/over.png" width="30%">
 
@@ -65,6 +67,9 @@ Flappy Bird Game in C++ ; Using object-oriented programming and the EasyX graphi
 - Score tracking
 - Basic collision detection
 - Game restart functionality
+
+## Support Us
+If you find this project helpful, please give us a ⭐️ Star! It is very important to us and can help more people discover and use this project.
 
 ## Requirements
 
